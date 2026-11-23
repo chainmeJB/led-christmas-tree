@@ -29,6 +29,11 @@ The schematic is divided into blocks:
 |---|---|
 | ![PCB front](images/pcb_front.png) | ![PCB back](images/pcb_back.png) |
 
+
+| Front (3D) | Back (3D) |
+|---|---|
+| ![3D front](images/pcb_front_3d.png) | ![3D back](images/pcb_back_3d.png) |
+
 The board is cut in the shape of a three-tier tree, 100 × 140 mm, two copper layers, with a hanging hole at the top.
 
 - **LEDs.** The left group sits on the left half of the tree and the right group on the right half. On each tier there is one pair of LEDs with the same color (red on the top tier, orange in the middle, yellow on the bottom), so the tree blinks from left to right.
@@ -40,9 +45,9 @@ The board is cut in the shape of a three-tier tree, 100 × 140 mm, two copper la
 
 ## Stand
 
-| Front | Back | Side |
-|---|---|---|
-| ![Board in the stand front](images/stand_front.png) | ![Board in the stand back](images/stand_back.png) | ![Board in the stand right](images/stand_right.png)
+| Front | Back | Side | Isometric
+|---|---|---|---|
+| ![Board in the stand front](images/stand_front.png) | ![Board in the stand back](images/stand_back.png) | ![Board in the stand right](images/stand_right.png) | ![Board in the stand isometric](images/stand_isometric.png)
 
 The board stands upright in a simple 3D-printed block of 90 × 70 × 14 mm. The trunk of the tree goes into a slot 1.9 mm wide, and a trough on the right side leaves room for the USB-C jack and the cable plug. The battery holder stays behind the board, above the block, and the block is extended to the back so that the tree does not tip over. The title and the revision are engraved on the front.
 
